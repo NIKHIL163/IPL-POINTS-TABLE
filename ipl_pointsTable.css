@@ -1,0 +1,48 @@
+table{
+    border: 4px solid black;
+    border-collapse: collapse;
+    text-align: center;
+    color: black;
+    background-color: rgb(103, 170, 237);
+}
+th{
+    border: 4px solid black;
+    color: #80ff00;
+    column-width: 4cap;
+}
+td{
+    border: 4px solid black;
+}
+#rcb{
+    color: red;
+}
+#csk{
+    color: yellow;
+}
+#mi{
+    color: blue;
+}
+#gt{
+    color: blue;
+}
+#lsg{
+    color: aquamarine;
+}
+#rr{
+    color: pink;
+}
+#kkr{
+    color: purple;
+}
+#pk{
+    color: red;
+}
+#dc{
+    color: darkblue;
+}
+#srh{
+    color: orange;
+}
+h1{
+    color: blue;
+}
